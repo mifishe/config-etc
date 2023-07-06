@@ -1,3 +1,6 @@
+DOESN'T WORK FOR NEWER GNOME VERSIONS!  
+migrated to extension: https://github.com/mifishe/gnome-input-source-binder
+
 # useful multi-layout switch based on xbindkeys
 
 1. install xbindkeys
